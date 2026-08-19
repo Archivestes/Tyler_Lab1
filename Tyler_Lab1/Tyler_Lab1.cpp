@@ -5,5 +5,6 @@ int main()
 {
     cout << "Hello from Tyler! This is my first Git commit." << endl;
     cout << "Git makes collaboration easy!" << endl;
+    cout << "Changes made by Chase Chisholm" << endl;
 }
 //Edited directly on GitHub
