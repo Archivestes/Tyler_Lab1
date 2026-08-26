@@ -2,6 +2,12 @@
 #include <iostream>
 using namespace std;
 
+// My favourite number function — added by [Your Name]
+void myFavouriteNumber() {
+    int fav = 7;
+    cout << "My favourite number is: " << fav << endl;
+}
+
 int main()
 {
     cout << "Hello from Tyler." << endl;
