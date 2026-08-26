@@ -1,4 +1,5 @@
 // Reviewed and Updated by Chase Chisholm
+// Feature by Tyler: This is a Lab part where we check a pass fail situtaion.
 #include <iostream>
 using namespace std;
 
@@ -23,6 +24,15 @@ int main()
 	gpa = (math + english + science) / 3;
 	cout << "Your GPA is: " << gpa << endl;
 
+  if (gpa == 70) {
+    cout << "You pass." << endl;
+    }
+  else {
+    cout << "You fail." << endl;
+    }
+ 
+  }
+ return 0;
 
-}
+  }
 //Edited directly on GitHub
