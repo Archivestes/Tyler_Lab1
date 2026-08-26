@@ -8,3 +8,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Tyler
 - Chase
+## Lab stuff
+- Changes Made by Tyler: Added a feature greeting.
