@@ -3,6 +3,11 @@
 #include <iostream>
 using namespace std;
 
+// My favourite number function � added by [Your Name]
+void myFavouriteNumber() {
+    int fav = 7;
+    cout << "My favourite number is: " << fav << endl;
+}
 // Feature by Chase: Calculates the GPA of a student based on their grades in Math, English, and Science
 int main()
 {
