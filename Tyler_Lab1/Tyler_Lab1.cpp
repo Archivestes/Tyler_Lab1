@@ -6,6 +6,7 @@ using namespace std;
 // Feature by Chase: Calculates the GPA of a student based on their grades in Math, English, and Science
 int main()
 {
+
 	int math;
 	int english;
 	int science;
@@ -30,9 +31,21 @@ int main()
   else {
     cout << "You fail." << endl;
     }
- 
-  }
- return 0;
+    cout << "Hello from Tyler." << endl;
+    cout << "Hello from Chase." << endl;
+    cout << "Git makes collaboration easy!" << endl;
+    cout << "TYPO LINE!!";
+    cout << "Changes made by Chase Chisholm" << endl;
+    cout << "Lab 1 completed on 8/19/2026!" << endl;
+    cout << "Feature by Tyler: Branching is awesome!" << endl;
 
   }
+
+ return 0;
+
+}
 //Edited directly on GitHub
+=======
+   
+//Edited directly on GitHub
+
