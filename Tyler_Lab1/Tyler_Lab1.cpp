@@ -1,4 +1,5 @@
 // Reviewed and Updated by Chase Chisholm
+// Feature by Tyler: This is a Lab part where we check a pass fail situtaion.
 #include <iostream>
 using namespace std;
 
